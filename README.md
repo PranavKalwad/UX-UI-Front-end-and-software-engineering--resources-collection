@@ -153,6 +153,11 @@ https://github.com/bradtraversy/50projects50days
 https://javascript.plainenglish.io/6-useful-github-repositories-for-all-web-developers-44f26912fd66
 
 
+Chrome web dev tools :
+https://developer.chrome.com/
+
+Mozilla firefox web dev tools:
+https://developer.mozilla.org/en-US/docs/Tools
 
 
 
