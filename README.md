@@ -87,6 +87,8 @@ https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-inste
 https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
 
 
+https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407
+
 
 Software engineering tips,blog posts and articles:
 
