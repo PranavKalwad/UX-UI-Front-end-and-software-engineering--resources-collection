@@ -86,6 +86,13 @@ https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-inste
 
 https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
 
+https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6
+
+https://dev.to/hellonehha/css-flex-box-guide-for-anyone-5gbi
+
+https://dzone.com/articles/books-every-new-software-developer-should-read
+
+https://www.analyticsinsight.net/coding-playgrounds-for-web-developers-10-best-code-playgrounds-in-2021/
 
 https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407
 
