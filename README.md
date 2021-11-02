@@ -78,6 +78,13 @@ https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553
 
 https://levelup.gitconnected.com/5-awesome-css-tricks-every-developer-should-know-39396d4be992
 
+https://web.dev/blog/
+
+https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59
+
+https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59
+
+https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
 
 
 
@@ -151,6 +158,10 @@ https://github.com/whoinlee/stretchDaily108_vanillaJS
 https://github.com/bradtraversy/50projects50days
 
 https://javascript.plainenglish.io/6-useful-github-repositories-for-all-web-developers-44f26912fd66
+
+https://github.com/papercss/papercss
+
+https://github.com/solygambas/html-css-javascript-projects
 
 
 Chrome web dev tools :
