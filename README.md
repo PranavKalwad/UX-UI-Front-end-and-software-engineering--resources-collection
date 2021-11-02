@@ -97,6 +97,18 @@ https://www.analyticsinsight.net/coding-playgrounds-for-web-developers-10-best-c
 https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407
 
 
+https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
+
+
+https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal
+
+
+
+
+
+
+
+
 Software engineering tips,blog posts and articles:
 
 https://levelup.gitconnected.com/things-ive-learned-to-avoid-in-my-15-years-as-a-software-engineer-f9b661bf12a1
