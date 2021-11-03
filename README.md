@@ -159,7 +159,9 @@ https://betterprogramming.pub/10-things-i-wish-i-had-known-before-starting-my-de
 
 https://betterprogramming.pub/4-easy-hacks-to-make-yourself-a-more-valuable-developer-52395163b593
 
+https://javascript.plainenglish.io/how-to-pivot-yourself-to-become-a-better-software-developer-8c295afe7e0d
 
+https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-slow-down-your-company-a636a0d24dcc
 
 
 UX/UI/front end github repos:
