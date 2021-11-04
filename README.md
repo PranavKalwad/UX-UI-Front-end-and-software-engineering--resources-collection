@@ -102,7 +102,9 @@ https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
 
 https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal
 
+https://bootcamp.uxdesign.cc/2021-design-trends-yay-or-nay-78771bb79032
 
+https://medium.com/burdaforward/improve-your-software-engineering-skills-in-10-minutes-or-less-48b5b3407cd8
 
 
 
@@ -162,6 +164,9 @@ https://betterprogramming.pub/4-easy-hacks-to-make-yourself-a-more-valuable-deve
 https://javascript.plainenglish.io/how-to-pivot-yourself-to-become-a-better-software-developer-8c295afe7e0d
 
 https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-slow-down-your-company-a636a0d24dcc
+
+https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233
+
 
 
 UX/UI/front end github repos:
