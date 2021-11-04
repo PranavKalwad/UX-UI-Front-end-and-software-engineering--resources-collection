@@ -96,9 +96,7 @@ https://www.analyticsinsight.net/coding-playgrounds-for-web-developers-10-best-c
 
 https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407
 
-
 https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
-
 
 https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal
 
@@ -106,7 +104,9 @@ https://bootcamp.uxdesign.cc/2021-design-trends-yay-or-nay-78771bb79032
 
 https://medium.com/burdaforward/improve-your-software-engineering-skills-in-10-minutes-or-less-48b5b3407cd8
 
+https://medium.com/zoover-engineering/optimizing-css-by-removing-unused-media-queries-80b5508c6de9
 
+https://medium.com/geekculture/10-ways-to-improve-search-engine-optimization-seo-as-a-developer-a548ef936b22
 
 
 
