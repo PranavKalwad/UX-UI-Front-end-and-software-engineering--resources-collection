@@ -110,6 +110,25 @@ https://medium.com/geekculture/10-ways-to-improve-search-engine-optimization-seo
 
 https://uxdesign.cc/ui-cheat-sheet-accordions-3e88f0d4dfee
 
+https://www.nngroup.com/articles/accordion-icons/
+
+https://uxdesign.cc/how-putting-minimal-effort-into-tagging-can-extend-the-life-of-your-ux-research-1916f825c393
+
+https://material.io/archive/guidelines/components/expansion-panels.html#
+
+https://mui.com/components/accordion/
+
+https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/
+
+https://www.nngroup.com/articles/accordion-icons/
+
+
+
+
+
+
+
+
 
 Software engineering tips,blog posts and articles:
 
