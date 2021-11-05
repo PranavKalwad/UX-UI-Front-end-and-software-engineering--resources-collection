@@ -108,7 +108,7 @@ https://medium.com/zoover-engineering/optimizing-css-by-removing-unused-media-qu
 
 https://medium.com/geekculture/10-ways-to-improve-search-engine-optimization-seo-as-a-developer-a548ef936b22
 
-
+https://uxdesign.cc/ui-cheat-sheet-accordions-3e88f0d4dfee
 
 
 Software engineering tips,blog posts and articles:
@@ -166,6 +166,9 @@ https://javascript.plainenglish.io/how-to-pivot-yourself-to-become-a-better-soft
 https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-slow-down-your-company-a636a0d24dcc
 
 https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233
+
+https://medium.com/swlh/10-best-tutorial-projects-for-self-taught-developers-3e13e7907c9a
+
 
 
 
