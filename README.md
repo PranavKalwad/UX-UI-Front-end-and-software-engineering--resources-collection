@@ -122,7 +122,7 @@ https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/
 
 https://www.nngroup.com/articles/accordion-icons/
 
-
+https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710
 
 
 
