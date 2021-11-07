@@ -124,6 +124,8 @@ https://www.nngroup.com/articles/accordion-icons/
 
 https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710
 
+https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15
+
 
 
 
@@ -187,6 +189,12 @@ https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-s
 https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233
 
 https://medium.com/swlh/10-best-tutorial-projects-for-self-taught-developers-3e13e7907c9a
+
+https://levelup.gitconnected.com/10-programming-practices-fresh-developers-should-adopt-be28602038fe
+
+https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44
+
+https://medium.com/@iam_manoj/things-i-do-to-write-clean-code-4e8ed656cebc
 
 
 
