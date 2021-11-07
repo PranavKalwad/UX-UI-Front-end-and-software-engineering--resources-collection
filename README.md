@@ -126,6 +126,9 @@ https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710
 
 https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15
 
+https://dev.to/yamanidev/understanding-the-box-model-in-css-1af
+
+
 
 Other useful resources for web dev:
 
