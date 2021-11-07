@@ -127,6 +127,26 @@ https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710
 https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15
 
 
+Other useful resources for web dev:
+
+https://dribbble.com/
+
+https://www.figma.com/
+
+https://html5up.net/
+
+https://themeforest.net/
+
+https://coolors.co/
+
+https://unsplash.com/
+
+https://www.shutterstock.com/
+
+https://smartmockups.com/
+
+https://www.gandi.net/en-IN
+
 
 
 
@@ -195,6 +215,8 @@ https://levelup.gitconnected.com/10-programming-practices-fresh-developers-shoul
 https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44
 
 https://medium.com/@iam_manoj/things-i-do-to-write-clean-code-4e8ed656cebc
+
+https://solveit.medium.com/software-development-cycle-what-is-sdlc-2cb410643a17
 
 
 
