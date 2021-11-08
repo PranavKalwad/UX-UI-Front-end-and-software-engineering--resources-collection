@@ -128,6 +128,14 @@ https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-
 
 https://dev.to/yamanidev/understanding-the-box-model-in-css-1af
 
+https://medium.com/@bennet.preimess/write-better-code-by-using-patterns-b850c301f27
+
+https://medium.com/free-code-camp/what-you-need-to-know-for-your-first-developer-job-that-you-wont-learn-in-school-2ab39551026
+
+https://medium.com/swlh/if-i-had-to-start-web-development-all-over-again-this-2021-238e7b04f3e9
+
+
+
 
 
 Other useful resources for web dev:
