@@ -134,6 +134,12 @@ https://medium.com/free-code-camp/what-you-need-to-know-for-your-first-developer
 
 https://medium.com/swlh/if-i-had-to-start-web-development-all-over-again-this-2021-238e7b04f3e9
 
+https://betterprogramming.pub/dear-junior-developer-99baedf36cd4
+
+https://medium.com/for-self-taught-developers/4-must-read-books-for-developers-this-2021-7987459c2eb
+
+https://medium.com/for-self-taught-developers/10-best-online-mentors-to-follow-for-developers-367febff91ef
+
 
 
 
