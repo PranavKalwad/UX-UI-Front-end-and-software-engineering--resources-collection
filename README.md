@@ -164,6 +164,7 @@ https://smartmockups.com/
 
 https://www.gandi.net/en-IN
 
+https://fontawesome.com/
 
 
 
