@@ -140,6 +140,11 @@ https://medium.com/for-self-taught-developers/4-must-read-books-for-developers-t
 
 https://medium.com/for-self-taught-developers/10-best-online-mentors-to-follow-for-developers-367febff91ef
 
+https://niemvuilaptrinh.medium.com/30-visual-studio-code-extension-for-web-development-e5580b1262d3
+
+
+
+
 
 
 
@@ -235,6 +240,15 @@ https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to
 https://medium.com/@iam_manoj/things-i-do-to-write-clean-code-4e8ed656cebc
 
 https://solveit.medium.com/software-development-cycle-what-is-sdlc-2cb410643a17
+
+https://lpizzinidev.medium.com/useful-activities-that-will-boost-your-developer-skills-68bc642f01dc
+
+https://medium.com/hexmount/top-productivity-tools-for-developers-22d82aab2b83
+
+https://levelup.gitconnected.com/the-technical-debt-snowball-811a7918f1df
+
+
+
 
 
 
