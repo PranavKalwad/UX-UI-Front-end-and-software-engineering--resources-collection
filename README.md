@@ -247,6 +247,7 @@ https://medium.com/hexmount/top-productivity-tools-for-developers-22d82aab2b83
 
 https://levelup.gitconnected.com/the-technical-debt-snowball-811a7918f1df
 
+https://github.com/EbookFoundation/free-programming-books
 
 
 
