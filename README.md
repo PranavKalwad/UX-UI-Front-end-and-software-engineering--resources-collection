@@ -142,6 +142,7 @@ https://medium.com/for-self-taught-developers/10-best-online-mentors-to-follow-f
 
 https://niemvuilaptrinh.medium.com/30-visual-studio-code-extension-for-web-development-e5580b1262d3
 
+https://levelup.gitconnected.com/10-ways-to-center-a-div-horizontally-and-vertically-in-css-53ca5eb912db
 
 
 
