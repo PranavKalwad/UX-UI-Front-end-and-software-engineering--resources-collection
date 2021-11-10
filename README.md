@@ -144,8 +144,7 @@ https://niemvuilaptrinh.medium.com/30-visual-studio-code-extension-for-web-devel
 
 https://levelup.gitconnected.com/10-ways-to-center-a-div-horizontally-and-vertically-in-css-53ca5eb912db
 
-
-
+https://dev.to/khush2706/frosted-glass-effect-in-css-27p4
 
 
 
