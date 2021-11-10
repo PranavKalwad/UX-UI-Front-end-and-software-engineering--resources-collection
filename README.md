@@ -250,8 +250,19 @@ https://levelup.gitconnected.com/the-technical-debt-snowball-811a7918f1df
 
 https://github.com/EbookFoundation/free-programming-books
 
+https://medium.com/madhash/develop-this-one-fundamental-skill-if-you-want-to-become-a-successful-developer-95977489652e
 
+https://medium.com/nerd-for-tech/3-golden-rules-to-become-a-better-developer-6a3c4d80362f
 
+https://niemvuilaptrinh.medium.com/13-developer-forums-you-should-join-in-2021-71408aa2122f
+
+https://mrshrestha.medium.com/7-html-attribute-you-should-know-right-now-c8863e4366d8
+
+https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
+
+https://itnext.io/filter-architecture-in-your-front-end-project-6bd9108a8d7f
+
+https://levelup.gitconnected.com/5-tips-to-ace-your-software-development-internship-7ee2e097af28
 
 
 
