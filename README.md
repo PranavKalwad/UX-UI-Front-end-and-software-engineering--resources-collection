@@ -146,6 +146,12 @@ https://levelup.gitconnected.com/10-ways-to-center-a-div-horizontally-and-vertic
 
 https://dev.to/khush2706/frosted-glass-effect-in-css-27p4
 
+https://blog.devgenius.io/7-useful-front-end-web-developer-cheatsheets-you-must-know-32e9ef3c03bb
+
+https://betterprogramming.pub/9-skills-to-learn-early-in-your-tech-career-a7e2f28f2027
+
+
+
 
 
 
