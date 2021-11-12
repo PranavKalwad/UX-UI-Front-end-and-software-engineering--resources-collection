@@ -150,6 +150,8 @@ https://blog.devgenius.io/7-useful-front-end-web-developer-cheatsheets-you-must-
 
 https://betterprogramming.pub/9-skills-to-learn-early-in-your-tech-career-a7e2f28f2027
 
+https://medium.com/dhiwise/10-best-practices-every-node-js-developer-must-follow-32072950a5ac
+
 
 
 
@@ -268,6 +270,12 @@ https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
 https://itnext.io/filter-architecture-in-your-front-end-project-6bd9108a8d7f
 
 https://levelup.gitconnected.com/5-tips-to-ace-your-software-development-internship-7ee2e097af28
+
+https://medium.com/silicon-tribe-techdev/10-non-technical-skills-to-be-a-great-developer-354697182fa2
+
+https://medium.com/free-code-camp/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
+
+https://medium.com/madhash/how-to-get-your-first-job-as-a-developer-without-any-prior-experience-ba545d795c27
 
 
 
