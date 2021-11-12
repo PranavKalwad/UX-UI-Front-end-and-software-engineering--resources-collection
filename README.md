@@ -301,6 +301,10 @@ https://github.com/papercss/papercss
 
 https://github.com/solygambas/html-css-javascript-projects
 
+https://github.com/diegocard/awesome-html5
+
+
+
 
 Chrome web dev tools :
 https://developer.chrome.com/
