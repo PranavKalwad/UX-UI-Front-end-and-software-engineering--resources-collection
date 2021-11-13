@@ -311,7 +311,7 @@ https://github.com/solygambas/html-css-javascript-projects
 
 https://github.com/diegocard/awesome-html5
 
-
+https://github.com/solygambas/html-css-javascript-projects
 
 
 Chrome web dev tools :
