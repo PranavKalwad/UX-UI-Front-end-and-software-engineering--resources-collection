@@ -277,6 +277,14 @@ https://medium.com/free-code-camp/what-ive-learned-six-months-into-my-first-job-
 
 https://medium.com/madhash/how-to-get-your-first-job-as-a-developer-without-any-prior-experience-ba545d795c27
 
+https://javascript.plainenglish.io/5-projects-you-can-build-in-a-week-that-will-get-you-hired-c9e88c17753b
+
+https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
+
+https://digomic.medium.com/5-book-to-learn-javascript-from-scratch-part-two-c4aa2b7993fd
+
+
+
 
 
 UX/UI/front end github repos:
