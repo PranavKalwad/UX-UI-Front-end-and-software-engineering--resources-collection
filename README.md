@@ -154,6 +154,19 @@ https://medium.com/dhiwise/10-best-practices-every-node-js-developer-must-follow
 
 https://github.com/micromata/awesome-css-learning
 
+https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-87k
+
+https://dev.to/0shuvo0/the-every-cursor-style-you-needcss-nfd
+ 
+https://levelup.gitconnected.com/9-youtube-channels-that-you-must-subscribe-to-if-you-are-a-developer-d7ac881c9798
+
+https://hakunamatatasolutions.medium.com/how-to-select-the-right-technology-stack-for-web-application-development-3fbf4a6e2e86
+
+https://medium.com/codex/how-to-become-a-superstar-web-developer-in-2022-ec41ceb1783
+
+
+
+
 
 
 
@@ -312,6 +325,30 @@ https://github.com/solygambas/html-css-javascript-projects
 https://github.com/diegocard/awesome-html5
 
 https://github.com/solygambas/html-css-javascript-projects
+
+https://github.com/dypsilon/frontend-dev-bookmarks
+
+https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Chrome web dev tools :
