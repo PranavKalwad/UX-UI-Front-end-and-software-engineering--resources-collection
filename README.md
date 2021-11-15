@@ -164,6 +164,10 @@ https://hakunamatatasolutions.medium.com/how-to-select-the-right-technology-stac
 
 https://medium.com/codex/how-to-become-a-superstar-web-developer-in-2022-ec41ceb1783
 
+https://blog.devgenius.io/10-awesome-free-resources-for-all-web-developers-a9f63855e97f
+
+https://medium.com/pythoneers/10-amazing-website-every-developer-should-know-8544ab5d75ea
+
 
 
 
