@@ -174,6 +174,8 @@ https://www.producthunt.com/posts/master-ui-design
 
 https://medium.com/@lpizzinidev/optimize-your-learning-process-as-a-developer-56fcf35218dc?source=email-b9d9b0d12f-1637008868402-digest.reader-29038077e4c6-56fcf35218dc----0-72------------------6bffc4f8_c4cd_44a5_813a_5b5933b773a5-28-
 
+https://javascript.plainenglish.io/10-awesome-front-end-development-tools-to-boost-your-productivity-b1d2efc4c4ba
+
 
 
 
@@ -205,6 +207,21 @@ https://smartmockups.com/
 https://www.gandi.net/en-IN
 
 https://fontawesome.com/
+
+https://websitesetup.org/css3-cheat-sheet/
+
+http://html5doctor.com/element-index/
+
+https://websitesetup.org/css3-cheat-sheet/
+
+https://ilovecoding.org/blog/js-cheatsheet
+
+https://gitsheet.wtf/
+
+http://www.developer-cheatsheets.com/react
+
+
+
 
 
 
