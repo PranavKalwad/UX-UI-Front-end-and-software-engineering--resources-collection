@@ -168,6 +168,10 @@ https://blog.devgenius.io/10-awesome-free-resources-for-all-web-developers-a9f63
 
 https://medium.com/pythoneers/10-amazing-website-every-developer-should-know-8544ab5d75ea
 
+https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-tailwind-2ded
+
+https://www.producthunt.com/posts/master-ui-design
+
 
 
 
