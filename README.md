@@ -172,6 +172,12 @@ https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-t
 
 https://www.producthunt.com/posts/master-ui-design
 
+https://medium.com/@lpizzinidev/optimize-your-learning-process-as-a-developer-56fcf35218dc?source=email-b9d9b0d12f-1637008868402-digest.reader-29038077e4c6-56fcf35218dc----0-72------------------6bffc4f8_c4cd_44a5_813a_5b5933b773a5-28-
+
+
+
+
+
 
 
 
