@@ -327,6 +327,8 @@ https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
 
 https://digomic.medium.com/5-book-to-learn-javascript-from-scratch-part-two-c4aa2b7993fd
 
+https://medium.com/actiresults/how-to-build-a-great-developer-portfolio-examples-tools-db3cf3d97531
+
 
 
 
