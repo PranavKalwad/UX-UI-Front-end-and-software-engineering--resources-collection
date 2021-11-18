@@ -176,6 +176,16 @@ https://medium.com/@lpizzinidev/optimize-your-learning-process-as-a-developer-56
 
 https://javascript.plainenglish.io/10-awesome-front-end-development-tools-to-boost-your-productivity-b1d2efc4c4ba
 
+https://uxplanet.org/laws-of-ux-every-designer-should-know-about-9cf25176d183
+
+https://medium.com/@yashrika/12-skills-you-need-to-become-a-front-end-developer-in-2021-347e2338875c
+
+https://uxdesign.cc/ultimate-ux-weapons-3760e73d7d9c
+
+https://levelup.gitconnected.com/10-rules-to-overcome-imposter-syndrome-as-a-software-engineer-88654e2adaa6
+
+https://javascript.plainenglish.io/11-must-use-tools-for-react-development-36c3b6ba2218
+
 
 
 
