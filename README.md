@@ -237,6 +237,26 @@ https://gitsheet.wtf/
 
 http://www.developer-cheatsheets.com/react
 
+https://reactide.io/
+
+https://bit.dev/
+
+https://storybook.js.org/
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+https://reactcosmos.org/
+
+http://nikgraf.github.io/belle/#/?_k=bi8b7m
+
+https://github.com/facebookarchive/react-360
+
+https://rekit.js.org/
+
+https://testing-library.com/docs/react-testing-library/intro/
+
+https://www.plasmic.app/
+
 
 
 
