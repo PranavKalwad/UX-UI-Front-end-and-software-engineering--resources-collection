@@ -190,6 +190,9 @@ https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=e
 
 https://github.com/kevin-powell/reponsive-web-design-bootcamp
 
+https://uxdesign.cc/three-principles-to-better-present-your-ui-designs-8c47e66aec29
+
+https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703?source=email-b9d9b0d12f-1637268441875-digest.reader-4b3a1ed4f11c-4e29e89c9703----2-73------------------c2e240e9_22c3_4948_9d42_66632e826f6d-1-6fb3959d_427f_4c16_8113_69b5dc87fcb6
 
 
 
