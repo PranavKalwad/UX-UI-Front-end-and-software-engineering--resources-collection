@@ -203,6 +203,8 @@ https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-wi
 
 
 
+
+
 Other useful resources for web dev:
 
 https://dribbble.com/
@@ -400,7 +402,10 @@ https://github.com/dypsilon/frontend-dev-bookmarks
 
 https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
 
+https://github.com/WebDevSimplified/Introduction-to-Web-Development
 
+
+https://github.com/zero-to-mastery/javascript20-projects
 
 
 
