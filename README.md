@@ -259,6 +259,8 @@ https://testing-library.com/docs/react-testing-library/intro/
 
 https://www.plasmic.app/
 
+https://maketintsandshades.com/
+
 
 
 
@@ -404,12 +406,13 @@ https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-e
 
 https://github.com/WebDevSimplified/Introduction-to-Web-Development
 
-
 https://github.com/zero-to-mastery/javascript20-projects
 
+https://github.com/micromata/awesome-css-learning
 
+https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
 
-
+https://github.com/kevin-powell/reponsive-web-design-bootcamp
 
 
 
