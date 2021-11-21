@@ -194,7 +194,13 @@ https://uxdesign.cc/three-principles-to-better-present-your-ui-designs-8c47e66ae
 
 https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703?source=email-b9d9b0d12f-1637268441875-digest.reader-4b3a1ed4f11c-4e29e89c9703----2-73------------------c2e240e9_22c3_4948_9d42_66632e826f6d-1-6fb3959d_427f_4c16_8113_69b5dc87fcb6
 
+https://javascript.plainenglish.io/how-to-write-an-infinite-scroll-list-with-react-6565c775aef6
 
+https://betterprogramming.pub/how-to-effectively-scale-your-web-application-7e3917bb98f
+
+https://levelup.gitconnected.com/10-exciting-things-you-need-to-know-about-bootstrap-5-900ad922bf02
+
+https://medium.com/@realchrissean/ive-been-a-web-developer-for-5-years-here-s-what-i-learned-f9cd5cfaaa7
 
 
 
@@ -413,6 +419,8 @@ https://github.com/micromata/awesome-css-learning
 https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
 
 https://github.com/kevin-powell/reponsive-web-design-bootcamp
+
+https://github.com/ResponsiveBP
 
 
 
