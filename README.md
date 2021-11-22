@@ -202,6 +202,8 @@ https://levelup.gitconnected.com/10-exciting-things-you-need-to-know-about-boots
 
 https://medium.com/@realchrissean/ive-been-a-web-developer-for-5-years-here-s-what-i-learned-f9cd5cfaaa7
 
+https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858
+
 
 
 
