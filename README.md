@@ -206,7 +206,7 @@ https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858
 
 https://javascript.plainenglish.io/best-online-css-generators-you-need-d9ac1a99b11b
 
-
+https://medium.com/featurepreneur/tips-to-become-a-better-frontend-developer-8814f17099ce
 
 
 
