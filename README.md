@@ -210,6 +210,8 @@ https://medium.com/featurepreneur/tips-to-become-a-better-frontend-developer-881
 
 https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
 
+https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h
+
 
 
 
