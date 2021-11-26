@@ -394,6 +394,8 @@ https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with
 
 https://medium.com/@bkposts/these-habits-will-make-you-a-better-developer-e55ef0ae6b6e
 
+https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351
+
 
 
 
