@@ -212,7 +212,13 @@ https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
 
 https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h
 
+https://betterprogramming.pub/my-favorite-coding-interview-task-for-frontened-developers-f3e984fa49e2
 
+https://uxdesign.cc/the-great-ux-design-toolbox-fc0f28d7e976
+
+https://levelup.gitconnected.com/understanding-css-positioning-from-a-to-z-407927b766ba
+
+https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
 
 
 
@@ -385,6 +391,8 @@ https://digomic.medium.com/5-book-to-learn-javascript-from-scratch-part-two-c4aa
 https://medium.com/actiresults/how-to-build-a-great-developer-portfolio-examples-tools-db3cf3d97531
 
 https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9
+
+https://medium.com/@bkposts/these-habits-will-make-you-a-better-developer-e55ef0ae6b6e
 
 
 
