@@ -220,6 +220,8 @@ https://levelup.gitconnected.com/understanding-css-positioning-from-a-to-z-40792
 
 https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
 
+https://javascript.plainenglish.io/7-websites-to-make-your-life-easier-as-a-web-developer-aa24b99e4e0e
+
 
 
 
