@@ -222,6 +222,7 @@ https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
 
 https://javascript.plainenglish.io/7-websites-to-make-your-life-easier-as-a-web-developer-aa24b99e4e0e
 
+https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc349c
 
 
 
