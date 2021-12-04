@@ -224,6 +224,9 @@ https://javascript.plainenglish.io/7-websites-to-make-your-life-easier-as-a-web-
 
 https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc349c
 
+https://levelup.gitconnected.com/building-a-coordinate-system-with-html-and-css-c20283d50bd0
+
+
 
 
 
