@@ -226,7 +226,7 @@ https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc34
 
 https://levelup.gitconnected.com/building-a-coordinate-system-with-html-and-css-c20283d50bd0
 
-
+https://levelup.gitconnected.com/5-skills-that-every-frontend-developer-should-improve-8b613752fa34
 
 
 
