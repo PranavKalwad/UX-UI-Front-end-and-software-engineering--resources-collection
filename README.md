@@ -403,7 +403,7 @@ https://medium.com/@bkposts/these-habits-will-make-you-a-better-developer-e55ef0
 
 https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351
 
-
+https://betterprogramming.pub/5-clean-code-practices-for-every-software-project-479443b31c3c
 
 
 
