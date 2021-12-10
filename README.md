@@ -228,6 +228,12 @@ https://levelup.gitconnected.com/building-a-coordinate-system-with-html-and-css-
 
 https://levelup.gitconnected.com/5-skills-that-every-frontend-developer-should-improve-8b613752fa34
 
+https://flux-technologies.medium.com/web-developer-skills-checklist-for-2022-9ee9418d403f
+
+https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-know-def550620464
+
+https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f
+
 
 
 
