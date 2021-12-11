@@ -234,6 +234,10 @@ https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-kno
 
 https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f
 
+https://uxdesign.cc/ui-ux-micro-tips-volume-eleven-44425404488f
+
+https://mandadedarshan27.medium.com/how-to-write-hight-readable-react-code-10-coding-style-tips-fb3fff748d08
+
 
 
 
