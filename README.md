@@ -238,7 +238,7 @@ https://uxdesign.cc/ui-ux-micro-tips-volume-eleven-44425404488f
 
 https://mandadedarshan27.medium.com/how-to-write-hight-readable-react-code-10-coding-style-tips-fb3fff748d08
 
-
+https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696
 
 
 Other useful resources for web dev:
