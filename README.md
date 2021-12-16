@@ -240,6 +240,12 @@ https://mandadedarshan27.medium.com/how-to-write-hight-readable-react-code-10-co
 
 https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696
 
+https://medium.com/@rogerfavelron/3-react-tips-tricks-f7e701ef8fea?source=email-b9d9b0d12f-1639600348310-digest.reader--f7e701ef8fea----0-72------------------6ad730db_489f_403a_999a_bcc775841a78-28-
+
+https://medium.com/codex/9-useful-websites-for-your-next-ui-project-38813ef912a8
+
+
+
 
 Other useful resources for web dev:
 
@@ -461,6 +467,8 @@ https://github.com/ResponsiveBP
 
 https://github.com/WebCifar
 
+
+https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&email_source=explore
 
 
 
