@@ -467,6 +467,7 @@ https://github.com/ResponsiveBP
 
 https://github.com/WebCifar
 
+https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects
 
 https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&email_source=explore
 
