@@ -319,6 +319,8 @@ https://jsonformatter.curiousconcept.com/#
 
 https://compressor.io/
 
+https://docs.emmet.io/cheat-sheet/
+
 
 
 Software engineering tips,blog posts and articles:
