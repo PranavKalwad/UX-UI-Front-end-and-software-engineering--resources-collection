@@ -247,6 +247,13 @@ https://medium.com/codex/9-useful-websites-for-your-next-ui-project-38813ef912a8
 https://javascript.plainenglish.io/6-important-principles-of-button-design-for-website-and-mobile-applications-faf0e0323056
 
 
+https://specificity.keegan.st/
+
+ https://coolors.co/palettes/trending
+
+
+
+
 Other useful resources for web dev:
 
 https://dribbble.com/
