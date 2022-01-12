@@ -2,118 +2,112 @@
 
 UX/UI front end articles,blog posts and tips :
 
-[Ux collective]https://uxdesign.cc/tagged/ui
+[Ux collective](https://uxdesign.cc/tagged/ui)
 
-[Ux collective]https://uxdesign.cc/tagged/ui-design
+[Ux collective](https://uxdesign.cc/tagged/ui-design)
 
-[Creating usability with motion]https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+[Creating usability with motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 
-[Quick tips to create a modern app ui ]https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
+[Quick tips to create a modern app ui ](https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677)
 
-[The future of web craft unique user experience with css only]https://levelup.gitconnected.com/the-future-of-web-craft-unique-user-experience-with-css-only-2775edb199aa
-
-
-
-[Self taught ui-ux designer roadmap in 2021]https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
-
- [ux trends at google]https://medium.com/google-design/10-ux-trends-at-google-6cac31deaea5
-
-[Why full stack engineers make the best ux engineers]https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739
-
-[basic concepts of css grid layout]https://itnext.io/7-basic-concepts-of-css-grid-layout-80e827a8e799
-
-[7 websites to take your front end skills from 1x to 100x]https://javascript.plainenglish.io/7-websites-to-take-your-front-end-skills-from-1x-to-100x-98c1db53c6d1
-
-[5 frontend interview coding challenges]https://betterprogramming.pub/5-front-end-interview-coding-challenges-6cd9f31d1169
-
-[How to get the best of frontend mentor]https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8
+[The future of web craft unique user experience with css only](https://levelup.gitconnected.com/the-future-of-web-craft-unique-user-experience-with-css-only-2775edb199aa)
 
 
-[ui ux microtips volume 1]https://uxdesign.cc/ui-ux-micro-tips-volume-one-e67788c537db
 
-[ui ux microtips volume 2]https://uxdesign.cc/ui-ux-micro-tips-volume-two-82e210a688f7
+[Self taught ui-ux designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 
- https://uxdesign.cc/ui-ux-micro-tips-volume-three-d12709017d20
+ [ux trends at google](https://medium.com/google-design/10-ux-trends-at-google-6cac31deaea5)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-four-abee6e554888
+[Why full stack engineers make the best ux engineers](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-five-9f432b77e519
+[basic concepts of css grid layout](https://itnext.io/7-basic-concepts-of-css-grid-layout-80e827a8e799)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-six-c38ba558f27b
+[7 websites to take your front end skills from 1x to 100x](https://javascript.plainenglish.io/7-websites-to-take-your-front-end-skills-from-1x-to-100x-98c1db53c6d1)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-seven-d4c8154a15e4
+[5 frontend interview coding challenges](https://betterprogramming.pub/5-front-end-interview-coding-challenges-6cd9f31d1169)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-eight-34942ba4e7fc
+[How to get the best of frontend mentor](https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8)
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-nine-c1fbee42a51
 
-https://maketintsandshades.com/
+[ui ux microtips volume 1](https://uxdesign.cc/ui-ux-micro-tips-volume-one-e67788c537db)
 
-https://uxdesign.cc/the-start-of-a-new-era-for-responsive-web-design-6658a6bbeb9b
+[ui ux microtips volume 2](https://uxdesign.cc/ui-ux-micro-tips-volume-two-82e210a688f7)
 
-https://uxdesign.cc/daily-ux-ui-challenges-finding-a-way-to-train-my-skills-daily-1df24139c42
+ [ui ux microtips volume 3](https://uxdesign.cc/ui-ux-micro-tips-volume-three-d12709017d20)
 
-https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/
+[ui ux microtips volume 4](https://uxdesign.cc/ui-ux-micro-tips-volume-four-abee6e554888)
 
-https://niemvuilaptrinh.medium.com/19-examples-bootstrap-5-for-website-32c8023e195e
+[ui ux microtips volume 5](https://uxdesign.cc/ui-ux-micro-tips-volume-five-9f432b77e519)
 
-https://levelup.gitconnected.com/micro-frontend-architecture-794442e9b325
+[ui ux microtips volume 6](https://uxdesign.cc/ui-ux-micro-tips-volume-six-c38ba558f27b)
 
-https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131
+[ui ux microtips volume 7](https://uxdesign.cc/ui-ux-micro-tips-volume-seven-d4c8154a15e4)
 
-https://geetikakaushik2020.medium.com/12-best-developer-websites-for-programmers-3e00885b741e
+[ui ux microtips volume 8](https://uxdesign.cc/ui-ux-micro-tips-volume-eight-34942ba4e7fc)
 
-https://medium.com/@punit3299/front-end-developer-complete-roadmap-6218df689b38
+[ui ux microtips volume 9](https://uxdesign.cc/ui-ux-micro-tips-volume-nine-c1fbee42a51)
 
-https://betterprogramming.pub/comparing-three-layered-and-clean-architecture-for-web-development-533bda5a1df0
+[The start of a era for responsive web design](https://uxdesign.cc/the-start-of-a-new-era-for-responsive-web-design-6658a6bbeb9b)
 
-https://medium.com/@raviyasas/application-development-coding-tips-for-newbies-a00af3369fe9
+[Ux ui challenges finding a way to train my skills everday](https://uxdesign.cc/daily-ux-ui-challenges-finding-a-way-to-train-my-skills-daily-1df24139c42)
 
-https://harshithv.medium.com/5-amazing-web-sites-you-must-use-as-a-developer-e3c0e452e60
+[Media qurey example max and min screen width for mobile responsive design](https://www.freecodecamp.org/news/media-query-css-example-max-and-min-screen-width-for-mobile-responsive-design/)
 
-https://javascript.plainenglish.io/how-to-make-your-site-25x-faster-with-a-few-lines-of-code-e13056faac2a
+[19 examples bootstrap 5 for websites](https://niemvuilaptrinh.medium.com/19-examples-bootstrap-5-for-website-32c8023e195e)
 
-https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639
+[micro frontend architecture](https://levelup.gitconnected.com/micro-frontend-architecture-794442e9b325)
 
-https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131
+[5 css practices to avoid as a web developer](https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131)
 
-https://levelup.gitconnected.com/5-awesome-css-tricks-every-developer-should-know-39396d4be992
+[12 best developer websites for programers](https://geetikakaushik2020.medium.com/12-best-developer-websites-for-programmers-3e00885b741e)
 
-https://web.dev/blog/
+[Front end developer complete roadmap](https://medium.com/@punit3299/front-end-developer-complete-roadmap-6218df689b38)
 
-https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59
+[Comparing three layered ad clean architecture for web development](https://betterprogramming.pub/comparing-three-layered-and-clean-architecture-for-web-development-533bda5a1df0)
 
-https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59
+[Application development tips for newbies](https://medium.com/@raviyasas/application-development-coding-tips-for-newbies-a00af3369fe9)
 
-https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
+[5 amazing web sites you must use as a developer](https://harshithv.medium.com/5-amazing-web-sites-you-must-use-as-a-developer-e3c0e452e60)
 
-https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6
+[How to make your site 25x faster with a few lines of code](https://javascript.plainenglish.io/how-to-make-your-site-25x-faster-with-a-few-lines-of-code-e13056faac2a)
 
-https://dev.to/hellonehha/css-flex-box-guide-for-anyone-5gbi
+[22 css tricks that can make you a layout ninja](https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639)
 
-https://dzone.com/articles/books-every-new-software-developer-should-read
+[5 awesome css tricks every developer should know](https://levelup.gitconnected.com/5-awesome-css-tricks-every-developer-should-know-39396d4be992
 
-https://www.analyticsinsight.net/coding-playgrounds-for-web-developers-10-best-code-playgrounds-in-2021/
+https://web.dev/blog/)
 
-https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407
+[Dont optimize your react app use preact instead](https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59)
 
-https://dev.to/bespoyasov/clean-architecture-on-frontend-4311
+[4 javascript concepts that every developer should know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
 
-https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal
+https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6)
 
-https://bootcamp.uxdesign.cc/2021-design-trends-yay-or-nay-78771bb79032
+[css flex box guide for anyone](https://dev.to/hellonehha/css-flex-box-guide-for-anyone-5gbi)
 
-https://medium.com/burdaforward/improve-your-software-engineering-skills-in-10-minutes-or-less-48b5b3407cd8
+[Books new software developer should read](https://dzone.com/articles/books-every-new-software-developer-should-read)
 
-https://medium.com/zoover-engineering/optimizing-css-by-removing-unused-media-queries-80b5508c6de9
+[coding playgrounds for web developers-10 best code playgrounds in 2021](https://www.analyticsinsight.net/coding-playgrounds-for-web-developers-10-best-code-playgrounds-in-2021/)
 
-https://medium.com/geekculture/10-ways-to-improve-search-engine-optimization-seo-as-a-developer-a548ef936b22
+[Ui cheatsheet spacing friendship](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
 
-https://uxdesign.cc/ui-cheat-sheet-accordions-3e88f0d4dfee
+[Clean architecture on front end](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
 
-https://www.nngroup.com/articles/accordion-icons/
+[10 trending projects on github for web developers](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal)
 
-https://uxdesign.cc/how-putting-minimal-effort-into-tagging-can-extend-the-life-of-your-ux-research-1916f825c393
+[2021 design trends yay or nay](https://bootcamp.uxdesign.cc/2021-design-trends-yay-or-nay-78771bb79032)
+
+[Imporve your software engineering skills in 10 minutes or less](https://medium.com/burdaforward/improve-your-software-engineering-skills-in-10-minutes-or-less-48b5b3407cd8)
+
+[optimizing css by removing unused media quries](https://medium.com/zoover-engineering/optimizing-css-by-removing-unused-media-queries-80b5508c6de9)
+
+[10 ways to improve search engine optimization (seo) as a developer](https://medium.com/geekculture/10-ways-to-improve-search-engine-optimization-seo-as-a-developer-a548ef936b22)
+
+[ui cheat sheet accordions](https://uxdesign.cc/ui-cheat-sheet-accordions-3e88f0d4dfee)
+
+[accordion icons](https://www.nngroup.com/articles/accordion-icons/)
+
+[how putting minimal effort into tagging can extend the life of your ux research](https://uxdesign.cc/how-putting-minimal-effort-into-tagging-can-extend-the-life-of-your-ux-research-1916f825c393)
 
 https://material.io/archive/guidelines/components/expansion-panels.html#
 
@@ -248,11 +242,6 @@ https://medium.com/codex/9-useful-websites-for-your-next-ui-project-38813ef912a8
 https://javascript.plainenglish.io/6-important-principles-of-button-design-for-website-and-mobile-applications-faf0e0323056
 
 
-https://specificity.keegan.st/
-
- https://coolors.co/palettes/trending
-
-
 
 
 Other useful resources for web dev:
@@ -330,6 +319,27 @@ https://compressor.io/
 https://docs.emmet.io/cheat-sheet/
 
 https://mobbin.design/browse/android/apps
+
+https://specificity.keegan.st/
+
+https://coolors.co/palettes/trending
+
+https://maketintsandshades.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Software engineering tips,blog posts and articles:
 
@@ -445,53 +455,51 @@ https://betterprogramming.pub/5-clean-code-practices-for-every-software-project-
 
 UX/UI/front end github repos:
 
-https://github.com/DouyinFE/semi-design?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+[semi-design](https://github.com/DouyinFE/semi-design?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
-https://github.com/strongdan/beginner-js-projects
+[beginner-js-projects](https://github.com/strongdan/beginner-js-projects)
 
-https://github.com/romeojeremiah/javascript-projects-for-beginners
+[javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners)
 
-https://github.com/Asabeneh/30-Days-Of-JavaScript
+[30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
-https://github.com/ShinyHwong
+[ShinyHwong](https://github.com/ShinyHwong)
 
-https://github.com/whoinlee/stretchDaily108_vanillaJS
+[stretchDaily108_vanillaJS](https://github.com/whoinlee/stretchDaily108_vanillaJS)
 
-https://github.com/bradtraversy/50projects50days
+[50projects50days](https://github.com/bradtraversy/50projects50days)
 
-https://javascript.plainenglish.io/6-useful-github-repositories-for-all-web-developers-44f26912fd66
+[6-useful-github-repositories-for-all-web-developers](https://javascript.plainenglish.io/6-useful-github-repositories-for-all-web-developers-44f26912fd66)
 
-https://github.com/papercss/papercss
+[papercss](https://github.com/papercss/papercss)
 
-https://github.com/solygambas/html-css-javascript-projects
+[html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects)
 
-https://github.com/diegocard/awesome-html5
+[awesome-html5](https://github.com/diegocard/awesome-html5)
 
-https://github.com/solygambas/html-css-javascript-projects
+[html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects)
 
-https://github.com/dypsilon/frontend-dev-bookmarks
+[frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
-https://github.com/WebDevSimplified/Introduction-to-Web-Development
+[Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development)
 
-https://github.com/zero-to-mastery/javascript20-projects
+[javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
 
-https://github.com/micromata/awesome-css-learning
+[awesome-css-learning](https://github.com/micromata/awesome-css-learning)
 
-https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+[storybookjs](https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
-https://github.com/kevin-powell/reponsive-web-design-bootcamp
+[reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp)
 
-https://github.com/ResponsiveBP
+[ResponsiveBP](https://github.com/ResponsiveBP)
 
-https://github.com/WebCifar
+[WebCifar](https://github.com/WebCifar)
 
-https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects
+[Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
 
-https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&email_source=explore
-
-
+[modern_js_udemy_projects](https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&email_source=explore)
 
 
 
@@ -505,11 +513,11 @@ https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&e
 
 
 
-Chrome web dev tools :
-https://developer.chrome.com/
 
-Mozilla firefox web dev tools:
-https://developer.mozilla.org/en-US/docs/Tools
+
+(Chrome web dev tools](https://developer.chrome.com/)
+
+[Mozilla firefox web dev tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 
 
