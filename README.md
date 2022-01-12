@@ -73,15 +73,14 @@ UX/UI front end articles,blog posts and tips :
 
 [22 css tricks that can make you a layout ninja](https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639)
 
-[5 awesome css tricks every developer should know](https://levelup.gitconnected.com/5-awesome-css-tricks-every-developer-should-know-39396d4be992
+[5 awesome css tricks every developer should know](https://levelup.gitconnected.com/5-awesome-css-tricks-every-developer-should-know-39396d4be992)
 
-https://web.dev/blog/)
 
 [Dont optimize your react app use preact instead](https://javascript.plainenglish.io/dont-optimize-your-react-app-use-preact-instead-76cdc3e69b59)
 
-[4 javascript concepts that every developer should know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8
+[4 javascript concepts that every developer should know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8)
 
-https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6)
+[css resources that you should bookmark](https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6)
 
 [css flex box guide for anyone](https://dev.to/hellonehha/css-flex-box-guide-for-anyone-5gbi)
 
@@ -246,85 +245,83 @@ https://javascript.plainenglish.io/6-important-principles-of-button-design-for-w
 
 Other useful resources for web dev:
 
-https://dribbble.com/
+[dribbble](https://dribbble.com/)
 
-https://www.figma.com/
+[figma](https://www.figma.com/)
 
-https://html5up.net/
+[html5up](https://html5up.net/)
 
-https://themeforest.net/
+[themeforest](https://themeforest.net/)
 
-https://coolors.co/
+[coolors](https://coolors.co/)
 
-https://unsplash.com/
+[unsplash](https://unsplash.com/)
 
-https://www.shutterstock.com/
+[shutterstock](https://www.shutterstock.com/)
 
-https://smartmockups.com/
+[smartmockups](https://smartmockups.com/)
 
-https://www.gandi.net/en-IN
+[gandi](https://www.gandi.net/en-IN)
 
-https://fontawesome.com/
+[fontawesome](https://fontawesome.com/)
 
-https://websitesetup.org/css3-cheat-sheet/
+[css3-cheat-sheet](https://websitesetup.org/css3-cheat-sheet/)
 
-http://html5doctor.com/element-index/
+[html5doctor](http://html5doctor.com/element-index/)
 
-https://websitesetup.org/css3-cheat-sheet/
+[js cheatsheet](https://ilovecoding.org/blog/js-cheatsheet)
 
-https://ilovecoding.org/blog/js-cheatsheet
+[gitcheatsheet](https://gitsheet.wtf/)
 
-https://gitsheet.wtf/
+[react cheatsheets](http://www.developer-cheatsheets.com/react)
 
-http://www.developer-cheatsheets.com/react
+[reactide](https://reactide.io/)
 
-https://reactide.io/
+[bit](https://bit.dev/)
 
-https://bit.dev/
+[storybook js](https://storybook.js.org/)
 
-https://storybook.js.org/
+[react-developer-tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+[reactcosmos](https://reactcosmos.org)/)
 
-https://reactcosmos.org/
+[belle](http://nikgraf.github.io/belle/#/?_k=bi8b7m)
 
-http://nikgraf.github.io/belle/#/?_k=bi8b7m
+[react-360](https://github.com/facebookarchive/react-360)
 
-https://github.com/facebookarchive/react-360
+[rekit js](https://rekit.js.org/)
 
-https://rekit.js.org/
+[react-testing-library](https://testing-library.com/docs/react-testing-library/intro/)
 
-https://testing-library.com/docs/react-testing-library/intro/
+[plasmic](https://www.plasmic.app/)
 
-https://www.plasmic.app/
+[makeintsandshades](https://maketintsandshades.com/)
 
-https://maketintsandshades.com/
+[rowserslist](https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z)
 
-https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
-
-https://caniuse.com/
+[caniuse](https://caniuse.com/)
 
 https://www.crio.do/?utm_source=google-ads&utm_medium=search&utm_campaign=search-brand-kw&utm_term=search-crio&utm_content=crio-text&gclid=CjwKCAiAksyNBhAPEiwAlDBeLHs6QjofOi2YIgVrmqc0RXqVXdXSHK67pUZYMfiEB5l2STFXGN9aJxoCs8gQAvD_BwE
 
-https://fingerprintjs.com/
+[fingerprintjs](https://fingerprintjs.com/)
 
-https://www.flaticon.com/
+[flaticon](https://www.flaticon.com/)
 
-https://mockflow.com/
+[mockflow](https://mockflow.com/)
 
-https://jsonformatter.curiousconcept.com/#
+[jsonformatter](https://jsonformatter.curiousconcept.com/#)
 
-https://compressor.io/
+[compressor](https://compressor.io/)
 
-https://docs.emmet.io/cheat-sheet/
+[Emmit cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
-https://mobbin.design/browse/android/apps
+[mobbin.design](https://mobbin.design/browse/android/apps)
 
-https://specificity.keegan.st/
+[specificity](https://specificity.keegan.st/)
 
-https://coolors.co/palettes/trending
+[coolors](https://coolors.co/palettes/trending)
 
-https://maketintsandshades.com/
+[maketintsandshades](https://maketintsandshades.com/)
 
 
 
@@ -515,7 +512,7 @@ UX/UI/front end github repos:
 
 
 
-(Chrome web dev tools](https://developer.chrome.com/)
+[Chrome web dev tools](https://developer.chrome.com/)
 
 [Mozilla firefox web dev tools](https://developer.mozilla.org/en-US/docs/Tools)
 
