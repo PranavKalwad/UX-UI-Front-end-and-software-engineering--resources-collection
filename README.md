@@ -10,29 +10,30 @@ UX/UI front end articles,blog posts and tips :
 
 [Quick tips to create a modern app ui ]https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
 
-https://levelup.gitconnected.com/the-future-of-web-craft-unique-user-experience-with-css-only-2775edb199aa
+[The future of web craft unique user experience with css only]https://levelup.gitconnected.com/the-future-of-web-craft-unique-user-experience-with-css-only-2775edb199aa
 
-https://mobbin.design/browse/android/apps
 
-https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
 
-https://medium.com/google-design/10-ux-trends-at-google-6cac31deaea5
+[Self taught ui-ux designer roadmap in 2021]https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
 
-https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739
+ [ux trends at google]https://medium.com/google-design/10-ux-trends-at-google-6cac31deaea5
 
-https://itnext.io/7-basic-concepts-of-css-grid-layout-80e827a8e799
+[Why full stack engineers make the best ux engineers]https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739
 
-https://javascript.plainenglish.io/7-websites-to-take-your-front-end-skills-from-1x-to-100x-98c1db53c6d1
+[basic concepts of css grid layout]https://itnext.io/7-basic-concepts-of-css-grid-layout-80e827a8e799
 
-https://betterprogramming.pub/5-front-end-interview-coding-challenges-6cd9f31d1169
+[7 websites to take your front end skills from 1x to 100x]https://javascript.plainenglish.io/7-websites-to-take-your-front-end-skills-from-1x-to-100x-98c1db53c6d1
 
-https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8
+[5 frontend interview coding challenges]https://betterprogramming.pub/5-front-end-interview-coding-challenges-6cd9f31d1169
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-one-e67788c537db
+[How to get the best of frontend mentor]https://medium.com/frontend-mentor/how-to-get-the-most-out-of-frontend-mentor-bdd6fdc25cb8
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-two-82e210a688f7
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-three-d12709017d20
+[ui ux microtips volume 1]https://uxdesign.cc/ui-ux-micro-tips-volume-one-e67788c537db
+
+[ui ux microtips volume 2]https://uxdesign.cc/ui-ux-micro-tips-volume-two-82e210a688f7
+
+ https://uxdesign.cc/ui-ux-micro-tips-volume-three-d12709017d20
 
 https://uxdesign.cc/ui-ux-micro-tips-volume-four-abee6e554888
 
@@ -328,7 +329,7 @@ https://compressor.io/
 
 https://docs.emmet.io/cheat-sheet/
 
-
+https://mobbin.design/browse/android/apps
 
 Software engineering tips,blog posts and articles:
 
