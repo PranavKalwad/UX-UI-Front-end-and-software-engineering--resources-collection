@@ -2,13 +2,13 @@
 
 UX/UI front end articles,blog posts and tips :
 
-https://uxdesign.cc/tagged/ui
+[Ux collective]https://uxdesign.cc/tagged/ui
 
-https://uxdesign.cc/tagged/ui-design
+[Ux collective]https://uxdesign.cc/tagged/ui-design
 
-https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+[Creating usability with motion]https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
 
-https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
+[Quick tips to create a modern app ui ]https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
 
 https://levelup.gitconnected.com/the-future-of-web-craft-unique-user-experience-with-css-only-2775edb199aa
 
