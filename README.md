@@ -108,137 +108,118 @@ UX/UI front end articles,blog posts and tips :
 
 [how putting minimal effort into tagging can extend the life of your ux research](https://uxdesign.cc/how-putting-minimal-effort-into-tagging-can-extend-the-life-of-your-ux-research-1916f825c393)
 
-https://material.io/archive/guidelines/components/expansion-panels.html#
+[7 HTML attributes you should know right now](https://mrshrestha.medium.com/7-html-attribute-you-should-know-right-now-c8863e4366d8)
 
-https://mui.com/components/accordion/
+[Web developer portfolio guide](https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710)
 
-https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/
+[Why designers should move from px to rem and how to do that in figma](https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15)
 
-https://www.nngroup.com/articles/accordion-icons/
+[Understanding box model in css](https://dev.to/yamanidev/understanding-the-box-model-in-css-1af)
 
-https://medium.com/@kittinson2/web-developer-portfolio-guide-f5da06537710
+[Writing better code by using design patters](https://medium.com/@bennet.preimess/write-better-code-by-using-patterns-b850c301f27)
 
-https://uxdesign.cc/why-designers-should-move-from-px-to-rem-and-how-to-do-that-in-figma-c0ea23e07a15
+[What you need to know for your first developer job that you wont learn in school](https://medium.com/free-code-camp/what-you-need-to-know-for-your-first-developer-job-that-you-wont-learn-in-school-2ab39551026)
 
-https://dev.to/yamanidev/understanding-the-box-model-in-css-1af
+[If I had to start web development all over again this 2021](https://medium.com/swlh/if-i-had-to-start-web-development-all-over-again-this-2021-238e7b04f3e9)
 
-https://medium.com/@bennet.preimess/write-better-code-by-using-patterns-b850c301f27
+[dear junior developer](https://betterprogramming.pub/dear-junior-developer-99baedf36cd4)
 
-https://medium.com/free-code-camp/what-you-need-to-know-for-your-first-developer-job-that-you-wont-learn-in-school-2ab39551026
+[4 must read books for developers this 2021](https://medium.com/for-self-taught-developers/4-must-read-books-for-developers-this-2021-7987459c2eb)
 
-https://medium.com/swlh/if-i-had-to-start-web-development-all-over-again-this-2021-238e7b04f3e9
+[10 best online mentors to follow for developers](https://medium.com/for-self-taught-developers/10-best-online-mentors-to-follow-for-developers-367febff91ef)
 
-https://betterprogramming.pub/dear-junior-developer-99baedf36cd4
+[30 vs code extensions for web development ](https://niemvuilaptrinh.medium.com/30-visual-studio-code-extension-for-web-development-e5580b1262d3)
 
-https://medium.com/for-self-taught-developers/4-must-read-books-for-developers-this-2021-7987459c2eb
+[10 ways to horizontally and vertically center a div in css](https://levelup.gitconnected.com/10-ways-to-center-a-div-horizontally-and-vertically-in-css-53ca5eb912db)
 
-https://medium.com/for-self-taught-developers/10-best-online-mentors-to-follow-for-developers-367febff91ef
+[Frosted glass effect in  css](https://dev.to/khush2706/frosted-glass-effect-in-css-27p4)
 
-https://niemvuilaptrinh.medium.com/30-visual-studio-code-extension-for-web-development-e5580b1262d3
+[7 useful front end developer cheatsheets you must know](https://blog.devgenius.io/7-useful-front-end-web-developer-cheatsheets-you-must-know-32e9ef3c03bb)
 
-https://levelup.gitconnected.com/10-ways-to-center-a-div-horizontally-and-vertically-in-css-53ca5eb912db
+[9 skills to learn early in your tech career](https://betterprogramming.pub/9-skills-to-learn-early-in-your-tech-career-a7e2f28f2027)
 
-https://dev.to/khush2706/frosted-glass-effect-in-css-27p4
+[10 best practices every node js developer must follow](https://medium.com/dhiwise/10-best-practices-every-node-js-developer-must-follow-32072950a5ac)
 
-https://blog.devgenius.io/7-useful-front-end-web-developer-cheatsheets-you-must-know-32e9ef3c03bb
+[Add glass effect with html and css](https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-87k)
 
-https://betterprogramming.pub/9-skills-to-learn-early-in-your-tech-career-a7e2f28f2027
-
-https://medium.com/dhiwise/10-best-practices-every-node-js-developer-must-follow-32072950a5ac
-
-https://github.com/micromata/awesome-css-learning
-
-https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-87k
-
-https://dev.to/0shuvo0/the-every-cursor-style-you-needcss-nfd
+[the every cursor style you need](https://dev.to/0shuvo0/the-every-cursor-style-you-needcss-nfd)
  
-https://levelup.gitconnected.com/9-youtube-channels-that-you-must-subscribe-to-if-you-are-a-developer-d7ac881c9798
+[9 youtube channels you must subscribe to if you are a developer](https://levelup.gitconnected.com/9-youtube-channels-that-you-must-subscribe-to-if-you-are-a-developer-d7ac881c9798)
 
-https://hakunamatatasolutions.medium.com/how-to-select-the-right-technology-stack-for-web-application-development-3fbf4a6e2e86
+[How to become a superstar web development in 2022](https://medium.com/codex/how-to-become-a-superstar-web-developer-in-2022-ec41ceb1783)
 
-https://medium.com/codex/how-to-become-a-superstar-web-developer-in-2022-ec41ceb1783
+[10 awesome free resourcesfor all web developers](https://blog.devgenius.io/10-awesome-free-resources-for-all-web-developers-a9f63855e97f)
 
-https://blog.devgenius.io/10-awesome-free-resources-for-all-web-developers-a9f63855e97f
+[How to create modern cards using react and tailwind](https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-tailwind-2ded)
 
-https://medium.com/pythoneers/10-amazing-website-every-developer-should-know-8544ab5d75ea
+[Master ui design](https://www.producthunt.com/posts/master-ui-design)
 
-https://dev.to/franciscomendes10866/how-to-create-modern-cards-using-react-and-tailwind-2ded
+[Optimize your learning process as a developer](https://medium.com/@lpizzinidev/optimize-your-learning-process-as-a-developer-56fcf35218dc?source=email-b9d9b0d12f-1637008868402-digest.reader-29038077e4c6-56fcf35218dc----0-72------------------6bffc4f8_c4cd_44a5_813a_5b5933b773a5-28-)
 
-https://www.producthunt.com/posts/master-ui-design
+[Laws every ux designer should know about](https://uxplanet.org/laws-of-ux-every-designer-should-know-about-9cf25176d183)
 
-https://medium.com/@lpizzinidev/optimize-your-learning-process-as-a-developer-56fcf35218dc?source=email-b9d9b0d12f-1637008868402-digest.reader-29038077e4c6-56fcf35218dc----0-72------------------6bffc4f8_c4cd_44a5_813a_5b5933b773a5-28-
+[12 skills you need to become a front end developer in 2021](https://medium.com/@yashrika/12-skills-you-need-to-become-a-front-end-developer-in-2021-347e2338875c)
 
-https://javascript.plainenglish.io/10-awesome-front-end-development-tools-to-boost-your-productivity-b1d2efc4c4ba
+[Ultimate ux weapons](https://uxdesign.cc/ultimate-ux-weapons-3760e73d7d9c)
 
-https://uxplanet.org/laws-of-ux-every-designer-should-know-about-9cf25176d183
+[10 rules to overcome imposter syndrome as a software engineer](https://levelup.gitconnected.com/10-rules-to-overcome-imposter-syndrome-as-a-software-engineer-88654e2adaa6)
 
-https://medium.com/@yashrika/12-skills-you-need-to-become-a-front-end-developer-in-2021-347e2338875c
+[11 must use tools for react development](https://javascript.plainenglish.io/11-must-use-tools-for-react-development-36c3b6ba2218)
 
-https://uxdesign.cc/ultimate-ux-weapons-3760e73d7d9c
 
-https://levelup.gitconnected.com/10-rules-to-overcome-imposter-syndrome-as-a-software-engineer-88654e2adaa6
+[3 principles to better present your ui designs](https://uxdesign.cc/three-principles-to-better-present-your-ui-designs-8c47e66aec29)
 
-https://javascript.plainenglish.io/11-must-use-tools-for-react-development-36c3b6ba2218
+[7 react developer tools to use in 2021](https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703?source=email-b9d9b0d12f-1637268441875-digest.reader-4b3a1ed4f11c-4e29e89c9703----2-73------------------c2e240e9_22c3_4948_9d42_66632e826f6d-1-6fb3959d_427f_4c16_8113_69b5dc87fcb6)
 
-https://github.com/storybookjs/storybook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+[How to write an infinite scroll list with react](https://javascript.plainenglish.io/how-to-write-an-infinite-scroll-list-with-react-6565c775aef6)
 
-https://github.com/kevin-powell/reponsive-web-design-bootcamp
+[How to effictively scale your web application](https://betterprogramming.pub/how-to-effectively-scale-your-web-application-7e3917bb98f)
 
-https://uxdesign.cc/three-principles-to-better-present-your-ui-designs-8c47e66aec29
+[10 exciting things to know about bootstrap5](https://levelup.gitconnected.com/10-exciting-things-you-need-to-know-about-bootstrap-5-900ad922bf02)
 
-https://javascript.plainenglish.io/top-7-react-developer-tools-to-use-in-2021-with-bonus-4e29e89c9703?source=email-b9d9b0d12f-1637268441875-digest.reader-4b3a1ed4f11c-4e29e89c9703----2-73------------------c2e240e9_22c3_4948_9d42_66632e826f6d-1-6fb3959d_427f_4c16_8113_69b5dc87fcb6
+[Ive been a web developer for 5 years here's what I have learned](https://medium.com/@realchrissean/ive-been-a-web-developer-for-5-years-here-s-what-i-learned-f9cd5cfaaa7)
 
-https://javascript.plainenglish.io/how-to-write-an-infinite-scroll-list-with-react-6565c775aef6
+[Clean vs dirty code in react](https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858)
 
-https://betterprogramming.pub/how-to-effectively-scale-your-web-application-7e3917bb98f
+[Best online css generators you need](https://javascript.plainenglish.io/best-online-css-generators-you-need-d9ac1a99b11b
 
-https://levelup.gitconnected.com/10-exciting-things-you-need-to-know-about-bootstrap-5-900ad922bf02
+[Tips to become a better front end developer](https://medium.com/featurepreneur/tips-to-become-a-better-frontend-developer-8814f17099ce)
 
-https://medium.com/@realchrissean/ive-been-a-web-developer-for-5-years-here-s-what-i-learned-f9cd5cfaaa7
+[How to become a frontend developer](https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h)
 
-https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858
+[My favorite coding interview task for frontend developers](https://betterprogramming.pub/my-favorite-coding-interview-task-for-frontened-developers-f3e984fa49e2)
 
-https://javascript.plainenglish.io/best-online-css-generators-you-need-d9ac1a99b11b
+[The great ux desig toolbox](https://uxdesign.cc/the-great-ux-design-toolbox-fc0f28d7e976)
 
-https://medium.com/featurepreneur/tips-to-become-a-better-frontend-developer-8814f17099ce
+[Understanding css positioning from a to z](https://levelup.gitconnected.com/understanding-css-positioning-from-a-to-z-407927b766ba)
 
-https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
+[Flexbox vs css grid](https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951)
 
-https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h
+[7 websites to make your life easier as a web developer](https://javascript.plainenglish.io/7-websites-to-make-your-life-easier-as-a-web-developer-aa24b99e4e0e)
 
-https://betterprogramming.pub/my-favorite-coding-interview-task-for-frontened-developers-f3e984fa49e2
+[A compelete neginners guide to react](https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc349c)
 
-https://uxdesign.cc/the-great-ux-design-toolbox-fc0f28d7e976
+[Building a coordinate system with html and css](https://levelup.gitconnected.com/building-a-coordinate-system-with-html-and-css-c20283d50bd0)
 
-https://levelup.gitconnected.com/understanding-css-positioning-from-a-to-z-407927b766ba
+[5 skills that every frontend developer should improve](https://levelup.gitconnected.com/5-skills-that-every-frontend-developer-should-improve-8b613752fa34)
 
-https://betterprogramming.pub/flexbox-vs-css-grid-3e9011ee2951
+[Web developer checklist for 2022](https://flux-technologies.medium.com/web-developer-skills-checklist-for-2022-9ee9418d403f)
 
-https://javascript.plainenglish.io/7-websites-to-make-your-life-easier-as-a-web-developer-aa24b99e4e0e
-
-https://medium.com/free-code-camp/a-complete-beginners-guide-to-react-4d490abc349c
-
-https://levelup.gitconnected.com/building-a-coordinate-system-with-html-and-css-c20283d50bd0
-
-https://levelup.gitconnected.com/5-skills-that-every-frontend-developer-should-improve-8b613752fa34
-
-https://flux-technologies.medium.com/web-developer-skills-checklist-for-2022-9ee9418d403f
-
-https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-know-def550620464
+[12 front end performance patterns you need to know](https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-know-def550620464)
 
 https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122ffbd6f
 
-https://uxdesign.cc/ui-ux-micro-tips-volume-eleven-44425404488f
+[Ui-Ux micro tips volume 11](https://uxdesign.cc/ui-ux-micro-tips-volume-eleven-44425404488f)
 
-https://mandadedarshan27.medium.com/how-to-write-hight-readable-react-code-10-coding-style-tips-fb3fff748d08
+[How to write high readable react code](https://mandadedarshan27.medium.com/how-to-write-hight-readable-react-code-10-coding-style-tips-fb3fff748d08)
 
-https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696
+[10 articles every web developer should read](https://medium.com/javarevisited/10-articles-every-web-developer-should-read-2efca81d0696)
 
-https://medium.com/@rogerfavelron/3-react-tips-tricks-f7e701ef8fea?source=email-b9d9b0d12f-1639600348310-digest.reader--f7e701ef8fea----0-72------------------6ad730db_489f_403a_999a_bcc775841a78-28-
+[3 react tricks](https://medium.com/@rogerfavelron/3-react-tips-tricks-f7e701ef8fea?source=email-b9d9b0d12f-1639600348310-digest.reader--f7e701ef8fea----0-72------------------6ad730db_489f_403a_999a_bcc775841a78-28-)
 
-https://medium.com/codex/9-useful-websites-for-your-next-ui-project-38813ef912a8
+[9 useful websites for your next ui project](https://medium.com/codex/9-useful-websites-for-your-next-ui-project-38813ef912a8)
 
-https://javascript.plainenglish.io/6-important-principles-of-button-design-for-website-and-mobile-applications-faf0e0323056
+[6 important principles of button design for website and mobile](https://javascript.plainenglish.io/6-important-principles-of-button-design-for-website-and-mobile-applications-faf0e0323056)
 
 
 
@@ -339,113 +320,107 @@ Other useful resources for web dev:
 
 Software engineering tips,blog posts and articles:
 
-https://levelup.gitconnected.com/things-ive-learned-to-avoid-in-my-15-years-as-a-software-engineer-f9b661bf12a1
+[Things I have learned to avoid in my 15 years as a software engineer](https://levelup.gitconnected.com/things-ive-learned-to-avoid-in-my-15-years-as-a-software-engineer-f9b661bf12a1)
 
-https://itnext.io/microservices-and-the-myth-of-loose-coupling-9bbca007ac1a
+[Microservices and the myth of loose coupling](https://itnext.io/microservices-and-the-myth-of-loose-coupling-9bbca007ac1a)
 
-https://andrasgerlits.medium.com/why-does-developing-microservices-look-so-easy-if-its-so-hard-d72a28ce7be1
+[Why does developing microservices look so easy if its so hard](https://andrasgerlits.medium.com/why-does-developing-microservices-look-so-easy-if-its-so-hard-d72a28ce7be1)
 
-https://itnext.io/microservices-clearing-up-the-definitions-f679ebb794cb
+[Microservices-clearing up the definitions](https://itnext.io/microservices-clearing-up-the-definitions-f679ebb794cb)
 
-https://codeburst.io/microservices-from-idea-to-starting-line-d6e8cd5e9bb4
+[Microservices from idea to starting line](https://codeburst.io/microservices-from-idea-to-starting-line-d6e8cd5e9bb4)
 
-https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d
+[Software architecture the most important architectural patterns you need to know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 
-https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1
+[21 lessons I whish Id known earlier in my software engineering career](https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1)
 
-https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2
+[Software architecture patterns](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
 
-https://levelup.gitconnected.com/7-signs-you-are-doing-bad-as-a-developer-8b781a168862
+[7 signs you are doing bad as a developer](https://levelup.gitconnected.com/7-signs-you-are-doing-bad-as-a-developer-8b781a168862)
 
-https://levelup.gitconnected.com/junior-developers-guide-to-common-programming-terms-concepts-and-principles-92babd739ab7
+[Junior developer guide to common programing terms , concepts and principles](https://levelup.gitconnected.com/junior-developers-guide-to-common-programming-terms-concepts-and-principles-92babd739ab7)
 
-https://levelup.gitconnected.com/are-you-a-web-developer-9-things-everyone-must-know-about-the-job-583d89504319
+[Are you a web developer 9 things everyone must know about the job](https://levelup.gitconnected.com/are-you-a-web-developer-9-things-everyone-must-know-about-the-job-583d89504319)
 
-https://betterprogramming.pub/7-skills-to-sharpen-your-technical-skills-as-a-developer-ac467d4d4c1f
+[7 skills to sharpen your technical skills as a developer](https://betterprogramming.pub/7-skills-to-sharpen-your-technical-skills-as-a-developer-ac467d4d4c1f)
 
-https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2
+[What impress me when interviewing software engineers](https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2)
 
-https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5
+[Why most software developers struggle to improve](https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5)
 
-https://medium.com/swlh/improve-your-code-with-the-solid-principles-fcdcfdf21810
+[Improve your code with solid principles](https://medium.com/swlh/improve-your-code-with-the-solid-principles-fcdcfdf21810)
 
-https://levelup.gitconnected.com/how-to-improve-software-architecture-skills-daily-6f362d4e6493
+[How to improve software architecture skills daily](https://levelup.gitconnected.com/how-to-improve-software-architecture-skills-daily-6f362d4e6493)
 
-https://betterprogramming.pub/i-made-these-mistakes-as-a-junior-developer-so-you-dont-have-to-8531d9f2f0e3
+[I made these mistakes as a junior developer so you dont have to](https://betterprogramming.pub/i-made-these-mistakes-as-a-junior-developer-so-you-dont-have-to-8531d9f2f0e3)
 
-https://betterprogramming.pub/5-things-i-learned-after-two-years-as-a-software-engineer-at-microsoft-65e7124651c7
+[5 things I learned after two years as a software engineer at microsoft](https://betterprogramming.pub/5-things-i-learned-after-two-years-as-a-software-engineer-at-microsoft-65e7124651c7)
 
-https://david-vancouvering.medium.com/software-architecture-practice-requirements-78ea2ece609e
+[Software architecture practice requirements](https://david-vancouvering.medium.com/software-architecture-practice-requirements-78ea2ece609e)
 
-https://medium.com/@VincentOliveira/how-to-write-good-software-technical-documentation-41880a0e7814
+[How to write good software technical documetation](https://medium.com/@VincentOliveira/how-to-write-good-software-technical-documentation-41880a0e7814)
 
-https://javascript.plainenglish.io/5-skills-all-front-end-developers-need-to-learn-in-2021-e132a63d0b48
+[5 skills all front end developers need to learn in 2021](https://javascript.plainenglish.io/5-skills-all-front-end-developers-need-to-learn-in-2021-e132a63d0b48)
 
-https://betterprogramming.pub/19-realistic-habits-to-improve-software-development-594ce1e85e19
+[19 realistic habits to improve software development](https://betterprogramming.pub/19-realistic-habits-to-improve-software-development-594ce1e85e19)
 
-https://betterprogramming.pub/10-things-i-wish-i-had-known-before-starting-my-developer-career-d13e99a47a7e
+[10 things I wish I had known before starting my developer carrer](https://betterprogramming.pub/10-things-i-wish-i-had-known-before-starting-my-developer-career-d13e99a47a7e)
 
-https://betterprogramming.pub/4-easy-hacks-to-make-yourself-a-more-valuable-developer-52395163b593
+[4 easy hacks to make yourself a more valuable developer ](https://betterprogramming.pub/4-easy-hacks-to-make-yourself-a-more-valuable-developer-52395163b593)
 
-https://javascript.plainenglish.io/how-to-pivot-yourself-to-become-a-better-software-developer-8c295afe7e0d
+[How to pivot yourself to become a better software developer](https://javascript.plainenglish.io/how-to-pivot-yourself-to-become-a-better-software-developer-8c295afe7e0d)
 
-https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-slow-down-your-company-a636a0d24dcc
+[What is technical debt and why can it slow down your company](https://medium.com/the-widget-brain-blog/what-is-technical-debt-and-why-can-it-slow-down-your-company-a636a0d24dcc)
 
-https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233
+[70 amazing github repos for all developers part 1](https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233)
 
-https://medium.com/swlh/10-best-tutorial-projects-for-self-taught-developers-3e13e7907c9a
+[10 best tutorial projects for self taught developers](https://medium.com/swlh/10-best-tutorial-projects-for-self-taught-developers-3e13e7907c9a)
 
-https://levelup.gitconnected.com/10-programming-practices-fresh-developers-should-adopt-be28602038fe
+[10 programing practices fresh developers should adopt](https://levelup.gitconnected.com/10-programming-practices-fresh-developers-should-adopt-be28602038fe)
 
-https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44
+[5 additional skills a developer should learn to improve productivity](https://levelup.gitconnected.com/5-additional-skills-a-developer-should-learn-to-improve-productivity-ab0228b19f44)
 
-https://medium.com/@iam_manoj/things-i-do-to-write-clean-code-4e8ed656cebc
+[Things I do to write clean code](https://medium.com/@iam_manoj/things-i-do-to-write-clean-code-4e8ed656cebc)
 
-https://solveit.medium.com/software-development-cycle-what-is-sdlc-2cb410643a17
+[Software development life cycle what is sdlc](https://solveit.medium.com/software-development-cycle-what-is-sdlc-2cb410643a17)
 
-https://lpizzinidev.medium.com/useful-activities-that-will-boost-your-developer-skills-68bc642f01dc
+[Useful activities thst will boost your developer skills](https://lpizzinidev.medium.com/useful-activities-that-will-boost-your-developer-skills-68bc642f01dc)
 
-https://medium.com/hexmount/top-productivity-tools-for-developers-22d82aab2b83
+[Top productivity tools for developers](https://medium.com/hexmount/top-productivity-tools-for-developers-22d82aab2b83)
 
-https://levelup.gitconnected.com/the-technical-debt-snowball-811a7918f1df
+[The technical debt snowball](https://levelup.gitconnected.com/the-technical-debt-snowball-811a7918f1df)
 
-https://github.com/EbookFoundation/free-programming-books
+[Develop this one fundamental skill if you want to become a successful developer](https://medium.com/madhash/develop-this-one-fundamental-skill-if-you-want-to-become-a-successful-developer-95977489652e)
 
-https://medium.com/madhash/develop-this-one-fundamental-skill-if-you-want-to-become-a-successful-developer-95977489652e
+[3 golden rules to become a better developer](https://medium.com/nerd-for-tech/3-golden-rules-to-become-a-better-developer-6a3c4d80362f)
 
-https://medium.com/nerd-for-tech/3-golden-rules-to-become-a-better-developer-6a3c4d80362f
+[13 developer formus you should join in 2021](https://niemvuilaptrinh.medium.com/13-developer-forums-you-should-join-in-2021-71408aa2122f)
 
-https://niemvuilaptrinh.medium.com/13-developer-forums-you-should-join-in-2021-71408aa2122f
+[Filter architecture in your front end project](https://itnext.io/filter-architecture-in-your-front-end-project-6bd9108a8d7f)
 
-https://mrshrestha.medium.com/7-html-attribute-you-should-know-right-now-c8863e4366d8
+[5 tips to ace your software development internship](https://levelup.gitconnected.com/5-tips-to-ace-your-software-development-internship-7ee2e097af28)
 
-https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
+[10 non technecial skills to be a great developer](https://medium.com/silicon-tribe-techdev/10-non-technical-skills-to-be-a-great-developer-354697182fa2)
 
-https://itnext.io/filter-architecture-in-your-front-end-project-6bd9108a8d7f
+[What I have learned six months into my first job as a self taught software engineer](https://medium.com/free-code-camp/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86)
 
-https://levelup.gitconnected.com/5-tips-to-ace-your-software-development-internship-7ee2e097af28
+[How to get your first job as developer without any prior experience](https://medium.com/madhash/how-to-get-your-first-job-as-a-developer-without-any-prior-experience-ba545d795c27)
 
-https://medium.com/silicon-tribe-techdev/10-non-technical-skills-to-be-a-great-developer-354697182fa2
+[5 projects you can build in a week thst will get you hired](https://javascript.plainenglish.io/5-projects-you-can-build-in-a-week-that-will-get-you-hired-c9e88c17753b)
 
-https://medium.com/free-code-camp/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
+[5 design pattern books for beginners](https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273)
 
-https://medium.com/madhash/how-to-get-your-first-job-as-a-developer-without-any-prior-experience-ba545d795c27
+[5 books to learn javascript from scratch part two](https://digomic.medium.com/5-book-to-learn-javascript-from-scratch-part-two-c4aa2b7993fd)
 
-https://javascript.plainenglish.io/5-projects-you-can-build-in-a-week-that-will-get-you-hired-c9e88c17753b
+[How to build a greate developer portfolio example tools](https://medium.com/actiresults/how-to-build-a-great-developer-portfolio-examples-tools-db3cf3d97531)
 
-https://digomic.medium.com/5-design-pattern-books-for-beginners-bdb198a2273
+[Ace your first year as a junior developer with this advice ](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
 
-https://digomic.medium.com/5-book-to-learn-javascript-from-scratch-part-two-c4aa2b7993fd
+[These habits will make you a better developer](https://medium.com/@bkposts/these-habits-will-make-you-a-better-developer-e55ef0ae6b6e)
 
-https://medium.com/actiresults/how-to-build-a-great-developer-portfolio-examples-tools-db3cf3d97531
+[20 amazing repositories every developer should follow](https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351)
 
-https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9
-
-https://medium.com/@bkposts/these-habits-will-make-you-a-better-developer-e55ef0ae6b6e
-
-https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351
-
-https://betterprogramming.pub/5-clean-code-practices-for-every-software-project-479443b31c3c
+[5 clean code practices for every software project](https://betterprogramming.pub/5-clean-code-practices-for-every-software-project-479443b31c3c)
 
 
 
@@ -497,10 +472,9 @@ UX/UI/front end github repos:
 
 [modern_js_udemy_projects](https://github.com/bradtraversy/modern_js_udemy_projects?auto_subscribed=false&email_source=explore)
 
+[Free programing books](https://github.com/EbookFoundation/free-programming-books)
 
-
-
-
+[Awesome css learning](https://github.com/micromata/awesome-css-learning)
 
 
 
