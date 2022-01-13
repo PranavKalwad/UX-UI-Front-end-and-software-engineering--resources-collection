@@ -181,7 +181,7 @@ UX/UI front end articles,blog posts and tips :
 
 [Clean vs dirty code in react](https://fathinah.medium.com/clean-vs-dirty-code-in-react-24e8fee03858)
 
-[Best online css generators you need](https://javascript.plainenglish.io/best-online-css-generators-you-need-d9ac1a99b11b
+[Best online css generators you need](https://javascript.plainenglish.io/best-online-css-generators-you-need-d9ac1a99b11b)
 
 [Tips to become a better front end developer](https://medium.com/featurepreneur/tips-to-become-a-better-frontend-developer-8814f17099ce)
 
@@ -264,7 +264,7 @@ Other useful resources for web dev:
 
 [react-developer-tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-[reactcosmos](https://reactcosmos.org)/)
+[reactcosmos](https://reactcosmos.org)
 
 [belle](http://nikgraf.github.io/belle/#/?_k=bi8b7m)
 
