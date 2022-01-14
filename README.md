@@ -221,8 +221,9 @@ https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122
 
 [6 important principles of button design for website and mobile](https://javascript.plainenglish.io/6-important-principles-of-button-design-for-website-and-mobile-applications-faf0e0323056)
 
-
 [Animations in css](https://easings.net/)
+
+[Google fonts](https://fonts.google.com/)
 
 
 Other useful resources for web dev:
