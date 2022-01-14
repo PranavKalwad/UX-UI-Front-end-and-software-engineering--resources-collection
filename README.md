@@ -223,7 +223,8 @@ https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122
 
 [Animations in css](https://easings.net/)
 
-[Google fonts](https://fonts.google.com/)
+
+
 
 
 Other useful resources for web dev:
@@ -305,8 +306,9 @@ Other useful resources for web dev:
 
 [maketintsandshades](https://maketintsandshades.com/)
 
+[Google fonts](https://fonts.google.com/)
 
-
+[Entity codes](https://dev.w3.org/html5/html-author/charref)
 
 
 
