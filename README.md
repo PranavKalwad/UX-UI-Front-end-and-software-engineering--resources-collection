@@ -310,9 +310,7 @@ Other useful resources for web dev:
 
 [Entity codes](https://dev.w3.org/html5/html-author/charref)
 
-
-
-
+[CSS reset code](https://meyerweb.com/eric/tools/css/reset/)
 
 
 
