@@ -312,7 +312,7 @@ Other useful resources for web dev:
 
 [CSS reset code](https://meyerweb.com/eric/tools/css/reset/)
 
-
+[30 seconds of code](https://www.30secondsofcode.org/)
 
 
 
