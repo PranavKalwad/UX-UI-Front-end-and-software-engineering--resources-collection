@@ -223,7 +223,7 @@ https://blog.devgenius.io/7-projects-you-can-build-to-learn-react-in-2021-246122
 
 [Animations in css](https://easings.net/)
 
-
+[35 Website Cheat Sheets For Developers](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1)
 
 
 
